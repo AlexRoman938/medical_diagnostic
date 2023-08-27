@@ -1,0 +1,10 @@
+streamlit
+streamlit_chat
+sounddevice
+cython
+sentencepiece
+soundfile
+time
+json
+requests
+python-dotenv
