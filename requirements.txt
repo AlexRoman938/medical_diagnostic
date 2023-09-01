@@ -4,7 +4,4 @@ sounddevice
 cython
 sentencepiece
 soundfile
-time
-json
-requests
-python-dotenv
+streamlit-audiorecorder
